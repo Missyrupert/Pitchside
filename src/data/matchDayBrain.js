@@ -25,6 +25,7 @@ export const sessionMatrix = {
       },
       condition: 'Every goal = celebration',
       lookFor: 'Are they smiling and involved?',
+      ifNot: 'Make the game easier and faster.',
     },
     passing: {
       warmup: {
@@ -37,6 +38,7 @@ export const sessionMatrix = {
       },
       condition: 'Must pass before scoring',
       lookFor: 'Are they trying to pass, even if it fails?',
+      ifNot: 'Remove pressure, give more space.',
     },
     defending: {
       warmup: {
@@ -49,6 +51,7 @@ export const sessionMatrix = {
       },
       condition: 'Praise good stops — no diving in',
       lookFor: 'Are they trying to win the ball back?',
+      ifNot: 'Start them closer to the ball.',
     },
     confidence: {
       warmup: {
@@ -61,6 +64,7 @@ export const sessionMatrix = {
       },
       condition: 'Cheer effort and tries, not just goals',
       lookFor: 'Are they asking for the ball?',
+      ifNot: 'Pause and prompt them to call for it.',
     },
   },
   U8: {
@@ -75,6 +79,7 @@ export const sessionMatrix = {
       },
       condition: 'Bonus point for teamwork',
       lookFor: 'Is everyone getting touches?',
+      ifNot: 'Reduce player numbers.',
     },
     passing: {
       warmup: {
@@ -87,6 +92,7 @@ export const sessionMatrix = {
       },
       condition: 'Call the name before you pass',
       lookFor: 'Are they looking before they pass?',
+      ifNot: 'Slow it down, remind them to look.',
     },
     defending: {
       warmup: {
@@ -99,6 +105,7 @@ export const sessionMatrix = {
       },
       condition: 'Stay on feet — block don’t dive',
       lookFor: 'Are they staying near their player?',
+      ifNot: 'Shrink the space.',
     },
     confidence: {
       warmup: {
@@ -111,6 +118,7 @@ export const sessionMatrix = {
       },
       condition: 'No one is wrong — normalize mistakes',
       lookFor: 'Are they calling for the ball?',
+      ifNot: 'Make calling a rule.',
     },
   },
   U10: {
@@ -125,6 +133,7 @@ export const sessionMatrix = {
       },
       condition: 'Bonus goal if the whole team touched the ball in the build-up',
       lookFor: 'Is the game flowing without stops?',
+      ifNot: 'Remove rules and restart quickly.',
     },
     passing: {
       warmup: {
@@ -137,6 +146,7 @@ export const sessionMatrix = {
       },
       condition: 'Set play: must play wide before scoring',
       lookFor: 'Are they opening their body to receive?',
+      ifNot: 'Demonstrate and restart.',
     },
     defending: {
       warmup: {
@@ -149,6 +159,7 @@ export const sessionMatrix = {
       },
       condition: 'Compact shape within ten steps of each other',
       lookFor: 'Are they recovering quickly?',
+      ifNot: 'Add a race back to position.',
     },
     confidence: {
       warmup: {
@@ -161,6 +172,7 @@ export const sessionMatrix = {
       },
       condition: 'Spotlight one brave decision per quarter',
       lookFor: 'Are they showing for the ball?',
+      ifNot: 'Add a pass count rule.',
     },
   },
   U12: {
@@ -175,6 +187,7 @@ export const sessionMatrix = {
       },
       condition: 'First team to five goals chooses the next silly celebration',
       lookFor: 'Are they competing and enjoying it?',
+      ifNot: 'Add scoring pressure.',
     },
     passing: {
       warmup: {
@@ -187,6 +200,7 @@ export const sessionMatrix = {
       },
       condition: 'Reward switches of play with a cheer',
       lookFor: 'Are they scanning before receiving?',
+      ifNot: 'Freeze and ask what they see.',
     },
     defending: {
       warmup: {
@@ -199,6 +213,7 @@ export const sessionMatrix = {
       },
       condition: 'Double-team only when the ball is trapped on the line',
       lookFor: 'Are they working as a unit?',
+      ifNot: 'Link players with roles.',
     },
     confidence: {
       warmup: {
@@ -211,6 +226,7 @@ export const sessionMatrix = {
       },
       condition: 'After each goal: what was the best choice someone made?',
       lookFor: 'Are they demanding the ball?',
+      ifNot: 'Reward vocal players.',
     },
   },
 }
@@ -234,5 +250,6 @@ export function buildSession(age, goal, players) {
     condition: base.condition,
     adjustment,
     lookFor: base.lookFor,
+    ifNot: base.ifNot,
   }
 }
