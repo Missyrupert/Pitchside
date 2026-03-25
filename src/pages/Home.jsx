@@ -29,26 +29,38 @@ export default function Home() {
         </p>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      {/* Match Day Brain — primary feature */}
+      <button
+        onClick={() => navigate('/match-day')}
+        className="w-full bg-green-primary hover:bg-green-light text-white rounded-2xl p-8 text-center shadow-xl hover:shadow-2xl transition-all active:scale-[0.98] mb-4"
+      >
+        <div className="text-4xl mb-3">🧠</div>
+        <div className="text-xl font-bold">Match Day Brain</div>
+        <div className="text-green-200 text-sm mt-1">
+          Get a full session plan in 10 seconds. No guesswork.
+        </div>
+      </button>
+
+      <div className="grid grid-cols-2 gap-3">
         <button
           onClick={() => navigate('/situations')}
-          className="bg-green-primary hover:bg-green-light text-white rounded-2xl p-8 text-center shadow-lg hover:shadow-xl transition-all active:scale-[0.98] min-h-[120px]"
+          className="bg-light-grey hover:bg-gray-200 text-charcoal rounded-2xl p-6 text-center shadow-md hover:shadow-lg transition-all active:scale-[0.98]"
         >
-          <div className="text-4xl mb-3">🗣️</div>
-          <div className="text-xl font-bold">Situations</div>
-          <div className="text-green-200 text-sm mt-1">
-            Handle tricky moments
+          <div className="text-3xl mb-2">🗣️</div>
+          <div className="text-lg font-bold">Situations</div>
+          <div className="text-gray-500 text-xs mt-1">
+            Tricky moments
           </div>
         </button>
 
         <button
           onClick={() => navigate('/drills')}
-          className="bg-orange-accent hover:bg-orange-light text-white rounded-2xl p-8 text-center shadow-lg hover:shadow-xl transition-all active:scale-[0.98] min-h-[120px]"
+          className="bg-light-grey hover:bg-gray-200 text-charcoal rounded-2xl p-6 text-center shadow-md hover:shadow-lg transition-all active:scale-[0.98]"
         >
-          <div className="text-4xl mb-3">⚽</div>
-          <div className="text-xl font-bold">Drills</div>
-          <div className="text-orange-200 text-sm mt-1">
-            Session plans & activities
+          <div className="text-3xl mb-2">⚽</div>
+          <div className="text-lg font-bold">Drills</div>
+          <div className="text-gray-500 text-xs mt-1">
+            Full drill library
           </div>
         </button>
       </div>
