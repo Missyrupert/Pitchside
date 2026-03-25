@@ -4,6 +4,33 @@ import RecentlyViewed, {
   getRecentlyViewed,
   clearRecentlyViewed,
 } from '../components/RecentlyViewed'
+import CategoryBadge from '../components/CategoryBadge'
+
+/** IDs from src/data/situations.json and src/data/drills.json */
+const QUICK_START = [
+  {
+    kind: 'situation',
+    to: '/situations/1',
+    badge: 'Situation',
+    title: 'Parent Questioning Selection',
+    description:
+      "What to say when a parent asks why their child isn't playing more",
+  },
+  {
+    kind: 'situation',
+    to: '/situations/5',
+    badge: 'Situation',
+    title: 'Child Refuses to Be Substituted',
+    description: "Calm response when a child won't come off the pitch",
+  },
+  {
+    kind: 'drill',
+    to: '/drills/5',
+    badge: 'Drill',
+    title: '1v1 Channel Defending',
+    description: 'Classic defending drill for building 1v1 confidence',
+  },
+]
 
 export default function Home() {
   const navigate = useNavigate()
@@ -64,6 +91,43 @@ export default function Home() {
           </div>
         </button>
       </div>
+
+      <section className="mt-8">
+        <h2 className="text-lg font-bold text-charcoal mb-3">Quick Start</h2>
+        <div className="space-y-2">
+          {QUICK_START.map((item) => (
+            <button
+              key={`${item.kind}-${item.to}`}
+              type="button"
+              onClick={() => navigate(item.to)}
+              className="w-full text-left bg-light-grey rounded-xl p-4 flex items-start gap-3 hover:shadow-md transition-shadow active:scale-[0.99] min-h-[4.5rem]"
+            >
+              <CategoryBadge category={item.badge} small />
+              <div className="min-w-0 flex-1">
+                <div className="font-medium text-charcoal">{item.title}</div>
+                <p className="text-xs text-gray-500 mt-1 line-clamp-1">
+                  {item.description}
+                </p>
+              </div>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                className="h-4 w-4 text-gray-400 ml-auto shrink-0 mt-0.5"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                strokeWidth={2}
+                aria-hidden
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M9 5l7 7-7 7"
+                />
+              </svg>
+            </button>
+          ))}
+        </div>
+      </section>
 
       <RecentlyViewed items={recent} onClear={handleClear} />
     </div>
