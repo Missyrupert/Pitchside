@@ -70,8 +70,11 @@ export default function BeforeSession() {
         </div>
       ) : null}
 
-      <div className="mb-6 text-charcoal text-sm">
-        <span className="font-bold">Look For:</span> {plan.lookFor}
+      <div className="mb-6 text-charcoal text-sm leading-snug">
+        <div>
+          <span className="font-bold">Look For:</span> {plan.lookFor}
+        </div>
+        <div>If Not → {plan.ifNot}</div>
       </div>
 
       {/* Actions */}
