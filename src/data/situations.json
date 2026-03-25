@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "category": "Parents",
+    "title": "Parent Questioning Selection",
+    "summary": "Parent asks why their child isn't playing more or in specific position",
+    "whatsHappening": "Parent approaches before/during/after session asking about playing time or position.",
+    "immediateResponse": "\"I understand you want the best for [child's name], and so do I. Every decision I make is about their development and the team's. Can we arrange a quick chat after training? I want to give this the time it deserves.\"",
+    "whatToDo": [
+      "Don't debate during session — protects you and child from public discussion",
+      "Acknowledge their concern — defuses defensiveness",
+      "Offer private follow-up — shows you're taking it seriously",
+      "Stay calm — your tone sets the temperature"
+    ],
+    "followUp": "After session, speak privately (5-10 mins max). Explain development focus (e.g., rotating positions so everyone learns different roles). Be specific about what their child is doing well. Share next steps for their development. Set boundary: decisions during sessions need to be yours so you can focus on all the kids.",
+    "safeguarding": "If parent becomes aggressive, threatening, or won't drop it — politely end conversation: \"I need to get back to the kids. We can pick this up via email or speak to the club welfare officer if you'd like.\" Log the interaction (date, what was said, your response). Inform club welfare officer if behaviour was concerning.",
+    "whyItMatters": "You're modelling calm conflict resolution to kids watching. You're protecting your authority to coach. You're keeping focus on development, not appeasing loudest parent."
+  },
+  {
+    "id": 2,
+    "category": "Parents",
+    "title": "Touchline Coaching/Shouting",
+    "summary": "Parent shouting instructions that contradict your coaching",
+    "whatsHappening": "Parent on touchline calling out tactical instructions, positional changes, or criticisms that undermine your session plan.",
+    "immediateResponse": "Stay calm, don't engage mid-session. If it continues and disrupts session, pause and say: \"I appreciate everyone's passion, but I need the kids to focus on one voice right now so they don't get confused. Happy to chat after about what we're working on.\"",
+    "whatToDo": [
+      "Don't argue in front of kids",
+      "Pause session briefly if disruption continues",
+      "Speak calmly and directly",
+      "Redirect focus to the kids' learning"
+    ],
+    "followUp": "After session, speak to parent privately. Explain why consistent messaging matters for kids' development. Acknowledge their knowledge/passion but clarify coaching boundaries. If pattern continues, involve club welfare officer or committee.",
+    "safeguarding": "If behaviour is aggressive or directed at kids negatively, stop session and ask parent to step back. Log incident. Report to club welfare officer immediately if safeguarding concerns arise.",
+    "whyItMatters": "Kids need clear, consistent instruction to learn. Touchline chaos creates confusion and anxiety. You're protecting learning environment and your authority."
+  },
+  {
+    "id": 3,
+    "category": "Parents",
+    "title": "Parent Criticizing Coaching Methods",
+    "summary": "Parent questions or criticizes how you're running sessions",
+    "whatsHappening": "Parent tells you directly (or to other parents) that drills are wrong, kids aren't learning, or you should be doing things differently.",
+    "immediateResponse": "\"I'm always open to feedback about how we can help the kids develop. Can we set up a time to talk properly after training? I want to understand your concerns and explain what we're working towards.\"",
+    "whatToDo": [
+      "Don't get defensive",
+      "Acknowledge they care about their child's development",
+      "Separate their concern from personal attack",
+      "Offer structured conversation, not mid-session debate"
+    ],
+    "followUp": "Private conversation after session. Ask what specifically concerns them. Explain your session plan and development philosophy (age-appropriate, fun-first, building fundamentals). Reference FA/club guidelines if helpful. If concerns are valid, acknowledge and adjust. If unfounded, hold your ground politely but firmly.",
+    "safeguarding": "If criticism becomes personal attacks, harassment, or undermines your wellbeing — involve club welfare officer or committee chair. You have right to coach without harassment.",
+    "whyItMatters": "You're qualified and trusted by the club. Parents' anxiety doesn't mean you're failing. Professional boundaries protect you and maintain coaching standards."
+  },
+  {
+    "id": 4,
+    "category": "Parents",
+    "title": "Parent Wants Private Coaching Feedback",
+    "summary": "Parent requests regular one-on-one updates about their child's progress",
+    "whatsHappening": "Parent asks for weekly/regular private sessions to discuss their child's development, strengths, areas to improve.",
+    "immediateResponse": "\"I'm happy to give you an update on how [child's name] is doing. Let me suggest we do a quick chat every few weeks rather than weekly — that way I can focus on all the kids during sessions and still keep you informed.\"",
+    "whatToDo": [
+      "Set realistic expectations — you're coaching a team, not providing individual tutoring",
+      "Offer periodic check-ins (monthly or end of term)",
+      "Be specific about what their child is doing well",
+      "Suggest they watch sessions to see progress themselves"
+    ],
+    "followUp": "Provide brief written or verbal updates at agreed intervals. Keep feedback balanced (strengths + growth areas). Redirect over-involved parents to club's communication policy if needed. If requests become excessive, involve club committee.",
+    "safeguarding": "Watch for signs parent is putting excessive pressure on child. If child seems anxious or withdrawn due to parental expectations, mention it sensitively and suggest resources (club welfare officer, FA guidance on parental pressure).",
+    "whyItMatters": "You're managing a team, not personal development coaching. Boundaries protect your time and ensure fair attention to all kids."
+  },
+  {
+    "id": 5,
+    "category": "Kids",
+    "title": "Child Refuses to Be Substituted",
+    "summary": "Child gets upset or refuses to come off when being subbed",
+    "whatsHappening": "You signal a substitution and child protests, argues, or refuses to leave the pitch.",
+    "immediateResponse": "Stay calm. Crouch to their level, make eye contact: \"I know you want to keep playing, and you've done really well. Everyone gets a turn, and I need you to come off now so your teammate can play. You'll be back on soon.\"",
+    "whatToDo": [
+      "Don't argue or justify mid-game",
+      "Be firm but kind",
+      "Acknowledge their feelings without changing decision",
+      "Get them off pitch quickly to avoid prolonging scene",
+      "If they still refuse, pause game briefly and repeat calmly"
+    ],
+    "followUp": "After session, check in with child. Explain why rotation is fair and important. Praise their effort when they were on. If pattern continues, speak to parent about helping child manage emotions. If child's distress seems disproportionate, consider if something else is going on (struggles at school, home stress, etc.).",
+    "safeguarding": "If child's reaction is extreme (aggression, self-harm language, total breakdown), speak to parent immediately after session and recommend club welfare officer support. Log concerning behavior.",
+    "whyItMatters": "You're teaching kids to handle disappointment, follow instructions, and respect teammates' turn. Caving to tantrums undermines team fairness."
+  },
+  {
+    "id": 6,
+    "category": "Kids",
+    "title": "Child Upset About Not Starting",
+    "summary": "Child is visibly upset or withdrawn because they're not in starting lineup",
+    "whatsHappening": "Child sees team sheet or lineup and becomes quiet, tearful, or withdrawn before session starts.",
+    "immediateResponse": "Pull them aside briefly: \"I can see you're disappointed. I get it — everyone wants to start. But today I need you in this role, and you'll get plenty of time on the pitch. Can you help the team by giving your best when you're on?\"",
+    "whatToDo": [
+      "Acknowledge feeling without over-apologizing",
+      "Explain rotation is normal and fair",
+      "Give them a role/task to focus on",
+      "Check in during session to keep them engaged"
+    ],
+    "followUp": "After session, praise specific things they did well. Explain how rotation helps everyone develop. If child struggles repeatedly with this, speak to parent about building resilience and managing expectations. Consider if child is under external pressure to perform/start.",
+    "safeguarding": "If child's distress seems extreme or linked to parental pressure, speak sensitively to parent. If you suspect child is being pushed unhealthily, involve club welfare officer.",
+    "whyItMatters": "You're teaching resilience, teamwork, and that value isn't just about starting. Kids need to learn that effort and attitude matter more than status."
+  },
+  {
+    "id": 7,
+    "category": "Kids",
+    "title": "Kids Fighting or Arguing During Session",
+    "summary": "Two or more kids get into physical or verbal conflict during drill or game",
+    "whatsHappening": "Argument escalates into pushing, shoving, name-calling, or tears.",
+    "immediateResponse": "Stop session immediately. Separate kids physically if needed. Use calm, firm voice: \"Stop. Both of you, take a breath.\" Get them apart from each other and the group briefly.",
+    "whatToDo": [
+      "Stop activity immediately — safety first",
+      "Separate kids calmly",
+      "Don't assign blame publicly",
+      "Give both kids chance to cool down (30 seconds of silence works wonders)",
+      "Ask each child what happened (separately if needed)",
+      "Explain impact of their behavior on team/session"
+    ],
+    "followUp": "Decide consequence: brief sit-out, apology to each other, rejoin when calm. If pattern continues with same kids, speak to parents separately. Reinforce team values: respect, safety, fun. If fight was serious (injury, extreme aggression), log incident and inform parents at pickup.",
+    "safeguarding": "If any child injured, follow first aid protocol. If aggression suggests deeper issues (bullying pattern, anger management concerns), involve club welfare officer. Log all incidents involving physical contact.",
+    "whyItMatters": "You're teaching conflict resolution, emotional regulation, and safety. Ignoring fights normalizes aggression and makes sessions unsafe."
+  },
+  {
+    "id": 8,
+    "category": "Kids",
+    "title": "Quiet/Withdrawn Child Not Engaging",
+    "summary": "Child consistently hangs back, avoids drills, or seems unhappy but won't say why",
+    "whatsHappening": "Child doesn't participate fully, stands at edge of activities, or looks uncomfortable throughout session.",
+    "immediateResponse": "Don't force or call them out publicly. During water break or transition, crouch to their level: \"Hey, I noticed you're a bit quiet today. Everything okay? Is there anything I can do to help you enjoy the session more?\"",
+    "whatToDo": [
+      "Check in privately, not in front of group",
+      "Ask open questions (not yes/no)",
+      "Offer choice where possible (which drill position, which team)",
+      "Pair them with friendly/supportive teammate",
+      "Celebrate small participation wins"
+    ],
+    "followUp": "If pattern continues, speak to parent at pickup. Ask if there's context you should know (confidence issues, friendship problems, struggles elsewhere). Adjust approach based on feedback. Some kids need time to warm up — don't push too hard. If child seems genuinely unhappy over multiple weeks, suggest they try different activity rather than force it.",
+    "safeguarding": "If withdrawal seems linked to bullying, abuse, or serious distress, involve club welfare officer immediately. Trust your instincts — behavioral changes can signal safeguarding concerns.",
+    "whyItMatters": "Some kids need gentle encouragement, not pressure. Forcing participation can make things worse. You're creating safe environment where kids can engage at their pace."
+  },
+  {
+    "id": 9,
+    "category": "Kids",
+    "title": "Overconfident Child Dominating/Ball-Hogging",
+    "summary": "Skilled child won't pass, dominates activities, frustrates teammates",
+    "whatsHappening": "Child constantly takes ball from teammates, doesn't pass, complains when others make mistakes, or shows off.",
+    "immediateResponse": "During activity, give specific instruction: \"[Name], great effort, but I need you to make three passes before you shoot. Let's see if you can set up a teammate for a goal.\" Make it a challenge, not a criticism.",
+    "whatToDo": [
+      "Redirect behavior with specific tasks/challenges",
+      "Praise them when they DO pass or support teammates",
+      "Explain how their actions affect team (frustrated teammates = worse games)",
+      "Set rules that require passing/teamwork (must pass X times before shooting, rotate positions)"
+    ],
+    "followUp": "After session, pull them aside. Praise their skill but explain leadership means helping others improve. Challenge them to be a 'coach on the pitch' — can they help a teammate score next week? If pattern continues, speak to parent about modeling teamwork values at home. Consider giving child captaincy/leadership role with responsibility to support others.",
+    "safeguarding": "No safeguarding concerns unless behavior crosses into bullying (mocking, excluding, aggressive). If bullying emerges, follow club's anti-bullying policy.",
+    "whyItMatters": "Talented kids need to learn teamwork and humility. Ball-hogging kills team morale and limits everyone's development. You're teaching leadership, not just skill."
+  },
+  {
+    "id": 10,
+    "category": "Kids",
+    "title": "Child Injured But Trying to Hide It",
+    "summary": "Child limping, holding wrist, or clearly in pain but says they're fine",
+    "whatsHappening": "Child takes a knock or twist but waves you off, wants to keep playing despite visible discomfort.",
+    "immediateResponse": "Stop them immediately. Use calm but firm voice: \"I saw that knock. Let's just check you're okay before you carry on. Better safe than sorry.\" Don't let them argue — their safety is non-negotiable.",
+    "whatToDo": [
+      "Stop them playing immediately — no debate",
+      "Assess injury (can they walk/move limb without pain, any swelling/deformity)",
+      "Apply RICE if needed (Rest, Ice, Compression, Elevation)",
+      "If any doubt, sit them out",
+      "Inform parent at pickup even if minor"
+    ],
+    "followUp": "Watch them closely if they return to play. Any sign of pain = they sit. At pickup, tell parent exactly what happened and what you observed. If injury seems significant, recommend GP/A&E. Log incident in club's accident book (requirement for insurance). If child repeatedly hides injuries, speak to parent about why (pressure to play? Fear of letting team down?).",
+    "safeguarding": "CRITICAL — never let child play through pain. You're not medically trained to diagnose. When in doubt, sit them out. If parent pressures you to let injured child play, refuse and involve club welfare officer. Child's long-term health trumps one session.",
+    "whyItMatters": "Kids don't understand long-term injury consequences. You're protecting them from themselves and teaching that health comes first. Minor knocks ignored can become serious injuries."
+  }
+]

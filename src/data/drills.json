@@ -1,0 +1,709 @@
+[
+  {
+    "id": 1,
+    "name": "Stuck in the Mud",
+    "category": "Warm-up",
+    "playerCount": "8-20",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["Cones (to mark area)"],
+    "setup": "Mark out 20x20m square. Pick 2 catchers.",
+    "instructions": [
+      "Catchers try to tag other players",
+      "Tagged players freeze with legs apart (stuck in mud)",
+      "Free players can crawl through frozen players' legs to free them",
+      "If all players frozen, catchers win — pick new catchers and go again",
+      "Play 2-3 minute rounds"
+    ],
+    "coachingPoints": [
+      "Keep head up while running",
+      "Use quick direction changes to avoid catchers",
+      "Encourage teamwork (freeing teammates)"
+    ],
+    "benefits": {
+      "immediate": "Raises heart rate, develops agility and spatial awareness",
+      "longTerm": "Builds teamwork, decision-making under pressure, and movement off the ball"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Traffic Lights",
+    "category": "Warm-up",
+    "playerCount": "6-20",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["Ball per player", "Cones"],
+    "setup": "Each player with ball in 20x20m grid.",
+    "instructions": [
+      "Players dribble around grid",
+      "Coach calls colors: Green = dribble, Amber = slow down (walk pace), Red = stop (foot on ball)",
+      "Add variations: Blue = change direction, Purple = perform a skill move"
+    ],
+    "coachingPoints": [
+      "Keep ball close when dribbling",
+      "Use different parts of foot",
+      "Head up to avoid collisions"
+    ],
+    "benefits": {
+      "immediate": "Ball control practice, listening skills, reaction speed",
+      "longTerm": "Close control in tight spaces, awareness of surroundings"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dribbling Relay",
+    "category": "Warm-up",
+    "playerCount": "8-16",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["Balls", "Cones"],
+    "setup": "Split into teams of 3-4. Set up cone courses (zig-zag or straight with turn point).",
+    "instructions": [
+      "First player dribbles through cones to end point and back",
+      "Tag next teammate who goes",
+      "First team with all players finished wins",
+      "Repeat with variations (left foot only, specific skill moves)"
+    ],
+    "coachingPoints": [
+      "Keep ball under control (speed vs. control balance)",
+      "Use outside of foot around cones",
+      "Accelerate in open space"
+    ],
+    "benefits": {
+      "immediate": "Dribbling technique, competitive fun, speed with ball",
+      "longTerm": "Confidence on ball, ability to beat defenders with pace and control"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Keep-Ball Circle",
+    "category": "Warm-up",
+    "playerCount": "8-16",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Balls", "Cones"],
+    "setup": "Circle of players (8-10m diameter), 2-3 defenders in middle.",
+    "instructions": [
+      "Outside players pass ball across circle",
+      "Defenders try to intercept",
+      "If defender wins ball or it goes outside circle, player who made mistake swaps in",
+      "Progress: limit touches (2-touch, then 1-touch)"
+    ],
+    "coachingPoints": [
+      "Look before receiving",
+      "Pass to feet with right weight",
+      "Defenders press quickly after pass"
+    ],
+    "benefits": {
+      "immediate": "Passing accuracy, awareness under pressure",
+      "longTerm": "Composure in possession, quick decision-making"
+    }
+  },
+  {
+    "id": 5,
+    "name": "1v1 Channel Defending",
+    "category": "Defending",
+    "playerCount": "8-16",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls"],
+    "setup": "5m wide x 15m long channels. Attacker starts at one end with ball, defender at other.",
+    "instructions": [
+      "Attacker tries to dribble through channel past defender",
+      "Defender aims to win ball or force attacker out of bounds",
+      "Rotate roles after each attempt",
+      "Progression: widen channel or add small goals to attack/defend"
+    ],
+    "coachingPoints": [
+      "Defender: get side-on (not square), force attacker one way",
+      "Stay on feet (don't dive in)",
+      "Jockey backwards at speed of attacker"
+    ],
+    "benefits": {
+      "immediate": "1v1 defending technique, patience, body positioning",
+      "longTerm": "Defensive confidence, ability to delay attackers and win ball cleanly"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Pressing in Pairs",
+    "category": "Defending",
+    "playerCount": "10-16",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls"],
+    "setup": "20x15m grid. Two defenders vs. 4-5 attackers who keep possession.",
+    "instructions": [
+      "Attackers try to keep ball with passes",
+      "Defenders work as pair to win ball (one pressures ball, one covers)",
+      "If defenders win ball, they pass to coach and attackers restart",
+      "Rotate defenders every 90 seconds"
+    ],
+    "coachingPoints": [
+      "Press together (don't leave partner isolated)",
+      "Closest defender pressures ball, partner cuts passing lane",
+      "Communicate (call 'press' or 'cover')"
+    ],
+    "benefits": {
+      "immediate": "Coordinated pressing, communication, teamwork",
+      "longTerm": "Understanding defensive partnerships and compactness"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Protect the Castle",
+    "category": "Defending",
+    "playerCount": "8-16",
+    "ageGroups": ["U7-U8", "U9-U10"],
+    "equipment": ["Cones", "Balls", "Small cones/bottles for castles"],
+    "setup": "4 small grids (10x10m). Each grid has defender protecting 'castle' (cone or bottle in center) vs. 2-3 attackers.",
+    "instructions": [
+      "Attackers try to knock over castle by passing ball into it",
+      "Defender blocks shots and clears ball",
+      "Rotate roles every 2 minutes",
+      "Progression: add second defender"
+    ],
+    "coachingPoints": [
+      "Defender: stay between ball and castle",
+      "Close down shooter quickly",
+      "Block with body or feet"
+    ],
+    "benefits": {
+      "immediate": "Blocking shots, quick reactions, protective positioning",
+      "longTerm": "Defensive positioning, bravery in blocks, goalkeeping basics"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Transition: Win Ball → Attack",
+    "category": "Defending",
+    "playerCount": "10-16",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "2 small goals"],
+    "setup": "30x20m pitch with goal at each end. 5v5 or 6v6.",
+    "instructions": [
+      "Defending team tries to win ball",
+      "Once won, immediately counter-attack opposite goal",
+      "Losing team must recover and defend",
+      "Goal = restart with other team in possession"
+    ],
+    "coachingPoints": [
+      "Win ball and look forward immediately",
+      "Support ball-winner quickly (get ahead of ball)",
+      "Transition from defending to attacking mindset instantly"
+    ],
+    "benefits": {
+      "immediate": "Counter-attacking speed, transitional thinking",
+      "longTerm": "Game intelligence, recognizing moments to attack after winning ball"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Defensive Shape (Small-Sided Game)",
+    "category": "Defending",
+    "playerCount": "12-16",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "2 goals"],
+    "setup": "40x30m pitch. 6v6 or 7v7. Mark defensive line with cones (halfway line).",
+    "instructions": [
+      "Normal game but defending team must stay compact (within 10m of each other)",
+      "If defenders too spread out, coach stops play",
+      "Attackers try to stretch defenders and exploit gaps"
+    ],
+    "coachingPoints": [
+      "Defenders: squeeze together when ball is far side",
+      "Shift as unit left/right with ball movement",
+      "Don't chase ball individually — move as team"
+    ],
+    "benefits": {
+      "immediate": "Team defending shape, compactness, collective movement",
+      "longTerm": "Tactical understanding of defensive structure in real games"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Tackling Technique Stations",
+    "category": "Defending",
+    "playerCount": "12-20",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls"],
+    "setup": "3 stations (5 mins each, rotate): (1) Block tackle vs. static partner, (2) Poke tackle in channel 1v1, (3) Jockeying practice.",
+    "instructions": [
+      "Station 1: Players face each other with ball between, both try to win cleanly",
+      "Station 2: Defender uses poke tackle to knock ball away in narrow channel",
+      "Station 3: Defender jockeys attacker backwards without diving in"
+    ],
+    "coachingPoints": [
+      "Get low, strong body position",
+      "Time tackle when ball is away from attacker's foot",
+      "Stay balanced (don't lunge and lose shape)"
+    ],
+    "benefits": {
+      "immediate": "Technical tackling skills, timing, body strength",
+      "longTerm": "Confidence to tackle fairly and effectively without fouling"
+    }
+  },
+  {
+    "id": 11,
+    "name": "2v1 Overload Practice",
+    "category": "Attacking",
+    "playerCount": "9-15",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "Small goals"],
+    "setup": "15x10m grids. 2 attackers vs. 1 defender. Goal at one end.",
+    "instructions": [
+      "Attackers try to score past defender",
+      "Use width and quick passing to create space",
+      "Rotate: scorer becomes defender, defender joins queue"
+    ],
+    "coachingPoints": [
+      "Spread wide (make defender choose)",
+      "Pass and move into space",
+      "Shoot quickly when chance appears"
+    ],
+    "benefits": {
+      "immediate": "Creating and exploiting overload situations, support play",
+      "longTerm": "Recognizing numerical advantage in games and using it effectively"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Finishing Circuit",
+    "category": "Attacking",
+    "playerCount": "8-16",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["Balls", "Cones", "Goal", "Mannequins/cones as defenders"],
+    "setup": "3-4 stations approaching goal from different angles.",
+    "instructions": [
+      "Station 1: Dribble around cone, shoot near post",
+      "Station 2: Receive pass, one-touch finish",
+      "Station 3: Dribble and shoot far post",
+      "Station 4: Receive and turn, then shoot",
+      "Rotate stations every 3 minutes"
+    ],
+    "coachingPoints": [
+      "Keep head steady when shooting",
+      "Strike through center of ball",
+      "Placement over power (especially younger groups)"
+    ],
+    "benefits": {
+      "immediate": "Shooting technique from various angles, repetition builds confidence",
+      "longTerm": "Composure in front of goal, ability to finish different types of chances"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Quick Passing Squares",
+    "category": "Attacking",
+    "playerCount": "8-16",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls"],
+    "setup": "10x10m square. Player at each corner. 1-2 balls.",
+    "instructions": [
+      "Pass and follow ball to next corner",
+      "Receive across body, pass with other foot",
+      "Progress: 2 balls going simultaneously, add 1-2 touch limit",
+      "Competition: which square completes most passes in 60 seconds"
+    ],
+    "coachingPoints": [
+      "Pass to feet with correct weight",
+      "Receive on back foot",
+      "Head up before passing (see next player)"
+    ],
+    "benefits": {
+      "immediate": "Passing accuracy, receiving technique, movement off ball",
+      "longTerm": "Quick combination play, awareness of teammates' positions"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Creating Space (Movement Off Ball)",
+    "category": "Attacking",
+    "playerCount": "10-16",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "Bibs"],
+    "setup": "25x20m grid. 6v4 possession game (attackers keep ball from defenders).",
+    "instructions": [
+      "Attackers must make 8 consecutive passes to score point",
+      "Encourage movement into space (check away then back)",
+      "Defenders press but don't tackle initially (passive) — then increase pressure"
+    ],
+    "coachingPoints": [
+      "Move before receiving (don't stand still)",
+      "Create passing angles (support behind and ahead of ball)",
+      "If space is tight, move away to drag defender and open gap"
+    ],
+    "benefits": {
+      "immediate": "Understanding how movement creates space for teammates",
+      "longTerm": "Intelligent off-ball running that opens up defenses"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Counter-Attack Transitions",
+    "category": "Attacking",
+    "playerCount": "12-16",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "2 goals"],
+    "setup": "40x30m pitch. 6v6. Defending team starts with ball in own half.",
+    "instructions": [
+      "Attackers win ball and immediately break forward",
+      "Goal: score within 10 seconds of winning possession",
+      "Defenders must recover quickly",
+      "Reset after goal or ball out"
+    ],
+    "coachingPoints": [
+      "First pass forward after winning ball (don't go backwards)",
+      "Sprint into space ahead of ball",
+      "Finish quickly (don't over-play)"
+    ],
+    "benefits": {
+      "immediate": "Speed of thought and action on transition, direct attacking",
+      "longTerm": "Recognizing counter-attack opportunities in matches"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Small-Sided Game (Attacking Focus)",
+    "category": "Attacking",
+    "playerCount": "10-16",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "2 goals"],
+    "setup": "30x20m pitch. 5v5 or 6v6.",
+    "instructions": [
+      "Normal game but award bonus point for: (1) Team goal from pass (not solo dribble), (2) Three consecutive passes before goal",
+      "Encourages combination play over individual efforts"
+    ],
+    "coachingPoints": [
+      "Look for pass before dribble",
+      "Support ball-carrier with runs",
+      "Celebrate teamwork goals"
+    ],
+    "benefits": {
+      "immediate": "Teamwork, sharing possession, creative attacking",
+      "longTerm": "Understanding team attacking patterns and when to pass vs. dribble"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Rondo (Keep-Away)",
+    "category": "Possession",
+    "playerCount": "8-12",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls"],
+    "setup": "10x10m grid. 6 players on outside vs. 2 defenders in middle.",
+    "instructions": [
+      "Outside players keep ball with passes",
+      "Defenders try to intercept or touch ball",
+      "If defender succeeds, player who made mistake goes in middle",
+      "Progress: 2-touch limit, then 1-touch"
+    ],
+    "coachingPoints": [
+      "Look before receiving (know where pressure is)",
+      "Pass into space (lead teammate away from defender)",
+      "Body shape open to see whole grid"
+    ],
+    "benefits": {
+      "immediate": "Quick passing under pressure, awareness",
+      "longTerm": "Composure in tight spaces, ability to play out from back"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Pass and Move Grids",
+    "category": "Possession",
+    "playerCount": "12-20",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls"],
+    "setup": "20x20m grid divided into 4 squares. Players spread across grid.",
+    "instructions": [
+      "Pass to teammate then move to different square",
+      "Receiver must control and pass to someone in another square",
+      "Rule: can't stay in same square after passing",
+      "Progress: 2-touch, then 1-touch"
+    ],
+    "coachingPoints": [
+      "Pass and move immediately (don't watch pass)",
+      "Move to space in different square",
+      "Communicate (call for ball)"
+    ],
+    "benefits": {
+      "immediate": "Movement after passing, spatial awareness",
+      "longTerm": "Understanding 'pass and move' principle fundamental to possession football"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Triangle Passing",
+    "category": "Possession",
+    "playerCount": "9-18",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls"],
+    "setup": "Groups of 3 in triangle shape (5m apart). Multiple groups in grid.",
+    "instructions": [
+      "Pass around triangle: A→B, B→C, C→A",
+      "After passing, follow ball to that position (rotate)",
+      "Progress: add defender in middle, increase speed, 1-touch passing"
+    ],
+    "coachingPoints": [
+      "Firm passes to feet",
+      "Receive across body (open hips)",
+      "Constant movement (don't stand still after passing)"
+    ],
+    "benefits": {
+      "immediate": "Passing technique, angles of support",
+      "longTerm": "Triangular passing patterns used in build-up play"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Switch Play Practice",
+    "category": "Possession",
+    "playerCount": "12-16",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "Bibs"],
+    "setup": "30x20m grid. 6v6 possession. Mark 'wings' on each side (5m wide zones).",
+    "instructions": [
+      "Team scores point for completing pass to teammate in opposite wing zone",
+      "Encourages switching play from congested side to open side",
+      "Defenders try to prevent switches"
+    ],
+    "coachingPoints": [
+      "Recognize when to switch (if one side crowded)",
+      "Quality of long pass (weight and accuracy)",
+      "Receiver in wing: check shoulder before ball arrives"
+    ],
+    "benefits": {
+      "immediate": "Switching point of attack, long passing",
+      "longTerm": "Tactical awareness of using width to stretch defenses"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Possession Game (3 Teams Rotating)",
+    "category": "Possession",
+    "playerCount": "12-18",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "3 sets of bibs"],
+    "setup": "25x25m grid. 3 teams of 4-6 players.",
+    "instructions": [
+      "Two teams combine to keep ball from third team",
+      "Defending team tries to win ball or force mistake",
+      "If defenders win ball OR attacking team loses possession, that team becomes defenders",
+      "Team that kept ball longest = winners"
+    ],
+    "coachingPoints": [
+      "Quick passing to avoid pressure",
+      "Support ball-carrier from all angles",
+      "Transition quickly when you become defenders"
+    ],
+    "benefits": {
+      "immediate": "Possession under pressure, quick transitions, teamwork",
+      "longTerm": "Game intelligence, reading when you're in/out of possession"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Shot-Stopping Angles",
+    "category": "Goalkeeping",
+    "playerCount": "6-10",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Goal", "Balls", "Cones"],
+    "setup": "Mark shooting positions at different angles (straight on, left, right) 12-15m from goal.",
+    "instructions": [
+      "Shooters take turns from each position",
+      "Keeper practices positioning (adjust angle for each shot)",
+      "Focus on getting body behind ball"
+    ],
+    "coachingPoints": [
+      "Move off line towards shooter (narrow angle)",
+      "Set position early (before shot)",
+      "Strong base (knees bent, ready to spring)"
+    ],
+    "benefits": {
+      "immediate": "Positioning, shot-stopping basics",
+      "longTerm": "Angle play and understanding how to make goal smaller for shooters"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Distribution Practice",
+    "category": "Goalkeeping",
+    "playerCount": "6-10",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Goal", "Balls", "Cones as targets"],
+    "setup": "Cones placed at various distances/angles from goal.",
+    "instructions": [
+      "Keeper practices throwing, rolling, and kicking to targets",
+      "Overarm throw (close), javelin throw (medium), goal kick (long)",
+      "Progress: add pressure (teammate closes down quickly)"
+    ],
+    "coachingPoints": [
+      "Overarm: step through and follow through to target",
+      "Javelin: side-on, point with non-throwing arm",
+      "Goal kick: strike through ball, lean back slightly"
+    ],
+    "benefits": {
+      "immediate": "Distribution technique (starting attacks from back)",
+      "longTerm": "Accurate, confident distribution under pressure"
+    }
+  },
+  {
+    "id": 24,
+    "name": "1v1 with Striker",
+    "category": "Goalkeeping",
+    "playerCount": "8-12",
+    "ageGroups": ["U9-U10", "U11+"],
+    "equipment": ["Goal", "Balls", "Cones"],
+    "setup": "Striker starts 15m out with ball. Keeper in goal.",
+    "instructions": [
+      "Striker tries to dribble and score",
+      "Keeper comes off line to close down and make save",
+      "Keeper: decide when to dive at feet vs. stay up and block"
+    ],
+    "coachingPoints": [
+      "Come out quickly and make yourself big",
+      "Stay on feet as long as possible (force striker to decide)",
+      "If diving at feet, protect yourself and smother ball"
+    ],
+    "benefits": {
+      "immediate": "1v1 bravery, decision-making (when to dive/stay up)",
+      "longTerm": "Confidence in one-on-one situations"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Command Your Box (Crosses/Corners)",
+    "category": "Goalkeeping",
+    "playerCount": "10-16",
+    "ageGroups": ["U11+"],
+    "equipment": ["Goal", "Balls", "Cones"],
+    "setup": "Servers on wings. 3v3 in box. Keeper in goal.",
+    "instructions": [
+      "Server crosses or takes corner",
+      "Keeper decides: come for ball (call 'KEEPER') or stay on line and organize defenders",
+      "Attackers try to score, defenders clear"
+    ],
+    "coachingPoints": [
+      "Call early and loud if coming for ball",
+      "Attack ball at highest point (jump across path)",
+      "If staying, position for shot and direct defenders ('push up', 'mark tight')"
+    ],
+    "benefits": {
+      "immediate": "Decision-making on crosses, communication",
+      "longTerm": "Command of penalty area and organizing defense"
+    }
+  },
+  {
+    "id": 26,
+    "name": "World Cup (Knockout Tournament)",
+    "category": "Fun",
+    "playerCount": "8-16",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "1 goal"],
+    "setup": "1v1 knockout. Each player picks a country. Winner stays on, loser out.",
+    "instructions": [
+      "1v1 in 10x10m grid with small goal",
+      "First to score wins and faces next player",
+      "Loser goes to back of queue",
+      "Last player standing = World Cup winner"
+    ],
+    "coachingPoints": [
+      "Encourage creativity and flair",
+      "Celebrate good play from both sides",
+      "Keep games quick (30 seconds max per round)"
+    ],
+    "benefits": {
+      "immediate": "Fun, competitive, individual skill practice",
+      "longTerm": "Confidence in 1v1 situations, handling pressure"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Sharks and Minnows",
+    "category": "Fun",
+    "playerCount": "8-20",
+    "ageGroups": ["U7-U8", "U9-U10"],
+    "equipment": ["Cones", "Balls"],
+    "setup": "20x20m grid. All players with ball (minnows) except 2 sharks (no ball).",
+    "instructions": [
+      "Minnows dribble across grid without losing ball",
+      "Sharks try to kick balls out of area",
+      "If ball kicked out, player becomes shark",
+      "Last minnow wins"
+    ],
+    "coachingPoints": [
+      "Keep ball close in traffic",
+      "Head up to see sharks",
+      "Use body to shield ball"
+    ],
+    "benefits": {
+      "immediate": "Close control under pressure, awareness",
+      "longTerm": "Protecting ball in congested areas"
+    }
+  },
+  {
+    "id": 28,
+    "name": "King of the Ring",
+    "category": "Fun",
+    "playerCount": "8-16",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls"],
+    "setup": "15x15m grid. All players with ball inside grid.",
+    "instructions": [
+      "Dribble and protect your own ball while trying to kick others' balls out",
+      "If your ball leaves grid, you're out (or do 5 toe-taps and rejoin)",
+      "Last player with ball in grid = King of the Ring"
+    ],
+    "coachingPoints": [
+      "Keep ball close",
+      "Use body to shield",
+      "Head up (see other players)"
+    ],
+    "benefits": {
+      "immediate": "Ball protection, awareness, competitive fun",
+      "longTerm": "Ability to maintain possession under pressure from multiple directions"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Match Day (Small-Sided Game)",
+    "category": "Fun",
+    "playerCount": "10-16",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["Cones", "Balls", "2 goals", "Bibs"],
+    "setup": "30x20m pitch. 5v5 or 6v6.",
+    "instructions": [
+      "Normal game with rolling subs",
+      "Let them play (minimal stoppages)",
+      "Celebrate effort, teamwork, good play from both teams"
+    ],
+    "coachingPoints": [
+      "Minimal coaching (let them problem-solve)",
+      "Encourage positive communication",
+      "Rotate positions so everyone tries different roles"
+    ],
+    "benefits": {
+      "immediate": "Pure fun, game understanding, teamwork",
+      "longTerm": "Love of the game, tactical awareness from playing"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Stretch and Chat (Debrief Circle)",
+    "category": "Fun",
+    "playerCount": "Any",
+    "ageGroups": ["U7-U8", "U9-U10", "U11+"],
+    "equipment": ["None (or water bottles)"],
+    "setup": "Circle on grass. Everyone sits.",
+    "instructions": [
+      "Gentle stretches (quads, hamstrings, calves)",
+      "Go around circle: each player shares one thing they did well today",
+      "Coach highlights 2-3 moments of great teamwork/effort from session",
+      "Remind them of next session date"
+    ],
+    "coachingPoints": [
+      "Make it positive and inclusive",
+      "Celebrate improvement, not just goals",
+      "Ask questions ('What did you enjoy today?')"
+    ],
+    "benefits": {
+      "immediate": "Cool-down, positive reinforcement, team bonding",
+      "longTerm": "Reflective practice, self-awareness, belonging"
+    }
+  }
+]
