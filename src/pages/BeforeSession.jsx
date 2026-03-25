@@ -61,7 +61,7 @@ export default function BeforeSession() {
       </div>
 
       {plan.adjustment ? (
-        <div className="bg-gray-50 border-l-4 border-gray-400 rounded-xl p-5 mb-6">
+        <div className="bg-gray-50 border-l-4 border-gray-400 rounded-xl p-5 mb-4">
           <div className="flex items-center gap-2 mb-2">
             <span className="text-xl">📐</span>
             <h3 className="font-bold text-gray-700">Adjustment for your group</h3>
@@ -70,8 +70,12 @@ export default function BeforeSession() {
         </div>
       ) : null}
 
+      <div className="mb-6 text-charcoal text-sm">
+        <span className="font-bold">Look For:</span> {plan.lookFor}
+      </div>
+
       {/* Actions */}
-      <div className="mt-6 mb-4">
+      <div className="mt-2 mb-4">
         <button
           onClick={handleNext}
           className="w-full py-4 rounded-xl font-bold text-white bg-orange-accent hover:bg-orange-light shadow-lg transition-all active:scale-[0.97]"
